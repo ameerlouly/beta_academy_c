@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="c course" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/c course" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/c course" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="bigofthree.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="calculator.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="countnum.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="evenoddcase.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="fact.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="grades.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="hellow.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="isbinary.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="main.h">
+			<Option compile="1" />
+		</Unit>
+		<Unit filename="odd.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="oddeven.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="power.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="profitloss.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="reversenum.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="switchcase.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="twomaxcase.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

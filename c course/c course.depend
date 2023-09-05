@@ -1,0 +1,71 @@
+# depslib dependency file v1.0
+1693909096 source:c:\users\maramiro\desktop\c programming\c course\main.c
+	<stdio.h>
+	"main.h"
+
+1693894626 source:c:\users\maramiro\desktop\c programming\c course\hellow.c
+	<stdio.h>
+
+1693897233 source:c:\users\maramiro\desktop\c programming\c course\odd.c
+	<stdio.h>
+	<stdlib.h>
+
+1693897947 source:c:\users\maramiro\desktop\c programming\c course\bigofthree.c
+
+1693907313 source:c:\users\maramiro\desktop\c programming\c course\fact.c
+
+1693899099 source:c:\users\maramiro\desktop\c programming\c course\pow.c
+
+1693902154 source:c:\users\maramiro\desktop\c programming\c course\power.c
+
+1693909092 c:\users\maramiro\desktop\c programming\c course\main.h
+
+1693902499 source:c:\users\maramiro\desktop\c programming\c course\evenoddcase.c
+
+1693902851 source:c:\users\maramiro\desktop\c programming\c course\twomaxcase.c
+
+1693903853 source:c:\users\maramiro\desktop\c programming\c course\calculator.c
+
+1693909092 source:c:\users\maramiro\desktop\c programming\c course\main.h
+
+1693922211 source:c:\users\test\desktop\c programming\c course\bigofthree.c
+
+1693920913 source:c:\users\test\desktop\c programming\c course\calculator.c
+
+1693946928 source:c:\users\test\desktop\c programming\c course\evenoddcase.c
+
+1693920510 source:c:\users\test\desktop\c programming\c course\fact.c
+
+1693920473 source:c:\users\test\desktop\c programming\c course\hellow.c
+
+1693947537 source:c:\users\test\desktop\c programming\c course\main.c
+	<stdio.h>
+	<stdlib.h>
+	"main.h"
+
+1693954768 c:\users\test\desktop\c programming\c course\main.h
+	<stdio.h>
+
+1693954768 source:c:\users\test\desktop\c programming\c course\main.h
+	<stdio.h>
+
+1693920511 source:c:\users\test\desktop\c programming\c course\odd.c
+
+1693920511 source:c:\users\test\desktop\c programming\c course\power.c
+
+1693947085 source:c:\users\test\desktop\c programming\c course\twomaxcase.c
+
+1693922337 source:c:\users\test\desktop\c programming\c course\oddeven.c
+
+1693921514 source:c:\users\test\desktop\c programming\c course\grades.c
+
+1693922083 source:c:\users\test\desktop\c programming\c course\profitloss.c
+
+1693945184 source:c:\users\test\desktop\c programming\c course\reversenum.c
+
+1693945290 source:c:\users\test\desktop\c programming\c course\countnum.c
+
+1693946769 source:c:\users\test\desktop\c programming\c course\isbinary.c
+
+1693947534 source:c:\users\test\desktop\c programming\c course\switchcase.c
+
