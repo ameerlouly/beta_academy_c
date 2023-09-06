@@ -18,5 +18,6 @@ int reversenum(int);
 int countnum(int);
 void isbinary(int);
 char switchcase(char);
+void bitwiseswap();
 
 #endif // MAIN_H

@@ -34,6 +34,9 @@
 		<Unit filename="bigofthree.c">
 			<Option compilerVar="CC" />
 		</Unit>
+		<Unit filename="bitwiseswap.c">
+			<Option compilerVar="CC" />
+		</Unit>
 		<Unit filename="calculator.c">
 			<Option compilerVar="CC" />
 		</Unit>

@@ -5,9 +5,8 @@
 int main()
 {
 
-int x;
-scanf("%c", &x);
-printf("%c", switchcase(x));
+
+bitwiseswap();
 
 return 0;
 }
