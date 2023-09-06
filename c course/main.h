@@ -19,5 +19,6 @@ int countnum(int);
 void isbinary(int);
 char switchcase(char);
 void bitwiseswap();
+void bitwiseiseven();
 
 #endif // MAIN_H

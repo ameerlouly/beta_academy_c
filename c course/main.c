@@ -4,9 +4,8 @@
 
 int main()
 {
-
-
-bitwiseswap();
-
+int x;
+scanf("d%", x);
+bitwiseiseven();
 return 0;
 }

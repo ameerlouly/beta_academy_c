@@ -6,6 +6,6 @@ void bitwiseswap()
     temp = x ^ y;
     x = y;
     y = temp ^ x;
-    printf("X = %d", x);
+    printf("X = %d\n", x);
     printf("Y = %d", y);
 }
