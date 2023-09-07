@@ -4,8 +4,9 @@
 
 int main()
 {
-int x;
-scanf("d%", x);
-bitwiseiseven();
+int x=0, y=0, z=0;
+scanf("%d%d%d",x , y, z);
+bigofthree(x, y, z);
+
 return 0;
 }
