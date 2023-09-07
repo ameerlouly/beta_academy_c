@@ -4,9 +4,10 @@
 
 int main()
 {
-int x=0, y=0, z=0;
-scanf("%d%d%d",x , y, z);
-bigofthree(x, y, z);
+ int x, y, z;
+ printf("Enter 3 numbers\n");
+ scanf("%d%d%d",&x ,&y ,&z);
+ printf("%d", bigofthree(x,y,z));
 
 return 0;
 }
