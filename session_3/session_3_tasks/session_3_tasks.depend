@@ -1,10 +1,10 @@
 # depslib dependency file v1.0
-1694472417 source:c:\users\test\desktop\c programming\beta_academy_c\session_3\session_3_tasks\main.c
+1694473006 source:c:\users\test\desktop\c programming\beta_academy_c\session_3\session_3_tasks\main.c
 	<stdio.h>
 	<stdlib.h>
 	"main.h"
 
-1694472347 c:\users\test\desktop\c programming\beta_academy_c\session_3\session_3_tasks\main.h
+1694472842 c:\users\test\desktop\c programming\beta_academy_c\session_3\session_3_tasks\main.h
 	<stdio.h>
 
 1694430393 source:c:\users\test\desktop\c programming\beta_academy_c\session_3\session_3_tasks\tobinary.c

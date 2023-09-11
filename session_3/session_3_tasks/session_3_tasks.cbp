@@ -31,7 +31,45 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
+		<Unit filename="_swap.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="addition.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="bin/Debug/session_3_tasks.exe" />
+		<Unit filename="isbigger.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="isprime.c">
+			<Option compilerVar="CC" />
+		</Unit>
 		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="main.h" />
+		<Unit filename="obj/Debug/_swap.o" />
+		<Unit filename="obj/Debug/addition.o" />
+		<Unit filename="obj/Debug/isbigger.o" />
+		<Unit filename="obj/Debug/isprime.o" />
+		<Unit filename="obj/Debug/main.o" />
+		<Unit filename="obj/Debug/odd1to100.o" />
+		<Unit filename="obj/Debug/primebetween.o" />
+		<Unit filename="obj/Debug/tobinary.o" />
+		<Unit filename="obj/Debug/tobinary1.o" />
+		<Unit filename="obj/Debug/tobinary2.o" />
+		<Unit filename="odd1to100.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="primebetween.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="session_3_tasks.depend" />
+		<Unit filename="session_3_tasks.layout" />
+		<Unit filename="tobinary1.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="tobinary2.c">
 			<Option compilerVar="CC" />
 		</Unit>
 		<Extensions>
