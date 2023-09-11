@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1694472417 source:c:\users\test\desktop\c programming\beta_academy_c\session_3\session_3_tasks\main.c
+	<stdio.h>
+	<stdlib.h>
+	"main.h"
+
+1694472347 c:\users\test\desktop\c programming\beta_academy_c\session_3\session_3_tasks\main.h
+	<stdio.h>
+
+1694430393 source:c:\users\test\desktop\c programming\beta_academy_c\session_3\session_3_tasks\tobinary.c
+
+1694430444 source:c:\users\test\desktop\c programming\beta_academy_c\session_3\session_3_tasks\tobinary1.c
+
+1694433516 source:c:\users\test\desktop\c programming\beta_academy_c\session_3\session_3_tasks\tobinary2.c
+
+1694471293 source:c:\users\test\desktop\c programming\beta_academy_c\session_3\session_3_tasks\primebetween.c
+
+1694471606 source:c:\users\test\desktop\c programming\beta_academy_c\session_3\session_3_tasks\odd1to100.c
+
+1694471849 source:c:\users\test\desktop\c programming\beta_academy_c\session_3\session_3_tasks\addition.c
+
+1694472417 source:c:\users\test\desktop\c programming\beta_academy_c\session_3\session_3_tasks\_swap.c
+
+1694472442 source:c:\users\test\desktop\c programming\beta_academy_c\session_3\session_3_tasks\isbigger.c
+
+1694472913 source:c:\users\test\desktop\c programming\beta_academy_c\session_3\session_3_tasks\isprime.c
+

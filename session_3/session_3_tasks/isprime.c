@@ -1,4 +1,4 @@
-void isprime(int x)
+int isprime(int x)
 {
     int i, flag=0;
     if (x == 0)
@@ -9,12 +9,12 @@ void isprime(int x)
     {
         if (x % i == 0)
         {
-    printf("Number is not prime");
+            return 0;
             flag = 1;
             break;
         }
     }
     if (flag == 0)
-    printf("Number is prime");
+    return 1;
     }
 }

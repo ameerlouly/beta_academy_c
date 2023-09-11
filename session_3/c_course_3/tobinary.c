@@ -1,3 +1,5 @@
+#include <stdio.h>
+
 void tobinary(int x)
 {
     int i;
